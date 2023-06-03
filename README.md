@@ -4,7 +4,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishav197&theme=dark)  
 
-![Profile views](https://gpvc.arturio.dev/rishav197)  
 
 
 
